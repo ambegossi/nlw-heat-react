@@ -48,7 +48,8 @@
           "tsx": "never"
         }
      ],
-     "import/prefer-default-export": "off"
+     "import/prefer-default-export": "off",
+     "react/destructuring-assignment": "off"
     },
     "settings": {
       "import/resolver": {
